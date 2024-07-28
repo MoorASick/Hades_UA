@@ -4791,7 +4791,7 @@
       */
       Id = "Poseidon_0131"
       Speaker = "Poseidon"
-      DisplayName = "Ох-{#DialogueItalicFormat}хо-хо{#PreviousFormat}! Що це у нас тут, Аїде молодший? Мені здається, що у тебе вже є {#DialogueItalicFormat}кмопанія{#PreviousFormat}! Що ж, я залишу вас двох наодинці. Мої губи стиснуті міцніше, ніж корпус військового корабля!"
+      DisplayName = "Ох-{#DialogueItalicFormat}хо-хо{#PreviousFormat}! Що це у нас тут, Аїде молодший? Мені здається, що у тебе вже є {#DialogueItalicFormat}компанія{#PreviousFormat}! Що ж, я залишу вас двох наодинці. Мої губи стиснуті міцніше, ніж корпус військового корабля!"
     }
     {
       /*
