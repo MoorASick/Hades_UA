@@ -3666,7 +3666,7 @@
       */
       Id = "HighHealthDamage"
       DisplayName = "Значна Впевненість"
-      Description = "Завдавайте додаткової шкоди, коли кількість вашиї Очок Здоров'я рівна {#BoldFormatGraft}{$TempTextData.DisplayValue}%{#PreviousFormat}{!Icons.Health_Small} або більше: {#TooltipUpgradeFormat}{$TempTextData.BaseValue:P} {#PreviousFormat}шкоди за ранг."
+      Description = "Завдавайте додаткової шкоди, коли кількість ваших Очок Здоров'я рівна {#BoldFormatGraft}{$TempTextData.DisplayValue}%{#PreviousFormat}{!Icons.Health_Small} або більше: {#TooltipUpgradeFormat}{$TempTextData.BaseValue:P} {#PreviousFormat}шкоди за ранг."
     }
     {
       Id = "EffectVulnerability"
