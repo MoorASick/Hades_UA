@@ -1255,12 +1255,12 @@
     {
       Id = "LastStandDamageBonusTrait"
       DisplayName = "Криваве Безумство"
-      Description = "Після того як ви кинули {$Keywords.ExtraChance}, шкоду яку ви наносите буде збільшено, до кінця цієї {$Keywords.EncounterPlural}. \n {!Icons.Bullet}{#PropertyFormat}Бонус до Шкоди допоки Активна Сутичка: \Column 380 {$TooltipData.DisplayDelta1}"
+      Description = "Після того, як активується {$Keywords.ExtraChance}, шкоду яку ви наносите буде збільшено, до кінця цієї {$Keywords.EncounterPlural}. \n {!Icons.Bullet}{#PropertyFormat}Бонус до Шкоди допоки Активна Сутичка: \Column 380 {$TooltipData.DisplayDelta1}"
     }
     {
       Id = "LastStandDamageBonusTrait_Initial"
       InheritFrom = "LastStandDamageBonusTrait"
-      Description = "Після того як ви кинули {$Keywords.ExtraChance}, шкоду яку ви наносите буде збільшено, до кінця цієї {$Keywords.EncounterPlural}. \n {!Icons.Bullet}{#PropertyFormat}Бонус до Шкоди допоки Активна Сутичка: \Column 380 {$TooltipData.NewTotal1}"
+      Description = "Після того, як активується {$Keywords.ExtraChance}, шкоду яку ви наносите буде збільшено, до кінця цієї {$Keywords.EncounterPlural}. \n {!Icons.Bullet}{#PropertyFormat}Бонус до Шкоди допоки Активна Сутичка: \Column 380 {$TooltipData.NewTotal1}"
     }
     {
       Id = "AresShoutTrait"
