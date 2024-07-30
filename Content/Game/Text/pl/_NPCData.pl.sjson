@@ -21664,7 +21664,7 @@
       */
       Id = "Thanatos_0203"
       Speaker = "Thanatos"
-      DisplayName = "Тобі не {#DialogueItalicFormat}потрібно{#PreviousFormat} цього робити. Ти навіть не уявляєш, як добре тобі тут було. Можливо, колись ти це зрозумієш."
+      DisplayName = "Тобі не {#DialogueItalicFormat}потрібно {#PreviousFormat}цього робити. Ти навіть не уявляєш, як добре тобі тут було. Можливо, колись ти це зрозумієш."
     }
     {
       /*
