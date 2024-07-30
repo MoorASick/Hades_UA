@@ -9279,7 +9279,7 @@
       */
       Id = "Persephone_0196"
       Speaker = "Persephone"
-      DisplayName = "Я {#DialogueItalicFormat}вже{#PreviousFormat} пишаюся ним! Знаєш, на поверхні ти вже був відомим ще навіть тоді, коли я жила на Олімпі. Гадаю, відтоді легенди про тебе поширилися набагато далі!"
+      DisplayName = "Я {#DialogueItalicFormat}вже {#PreviousFormat}пишаюся ним! Знаєш, на поверхні ти вже був відомим ще навіть тоді, коли я жила на Олімпі. Гадаю, відтоді легенди про тебе поширилися набагато далі!"
     }
     {
       /*
@@ -22135,7 +22135,7 @@
       */
       Id = "Dusa_0043"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}Aa-ах!{#PreviousFormat} Ой, ой, ой, справді, що ви маєте на увазі, прямо зараз, ви... Я... здається, мені вже давно час зробити перерву..."
+      DisplayName = "{#DialogueItalicFormat}Aa-ах! {#PreviousFormat}Ой, ой, ой, справді, що ви маєте на увазі, прямо зараз, ви... Я... здається, мені вже давно час зробити перерву..."
     }
     {
       /*
@@ -22174,7 +22174,7 @@
       */
       Id = "Dusa_0045"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}<Зітхає>{#PreviousFormat}Я, я, я, дякую, Ваша Високосте. Принце. Принце Загрею!"
+      DisplayName = "{#DialogueItalicFormat}<Зітхає> {#PreviousFormat}Я, я, я, дякую, Ваша Високосте. Принце. Принце Загрею!"
     }
     {
       /*
