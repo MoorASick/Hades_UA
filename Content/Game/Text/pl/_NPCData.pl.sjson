@@ -42795,7 +42795,7 @@
       */
       Id = "ZagreusField_3660"
       Speaker = "Zagreus"
-      DisplayName = "Тому що... {#DialogueItalicFormat}унгх{#PreviousFormat}... я його бісів син, ось звідки я знаю! Але я розумію, що лише {#DialogueItalicFormat}моїх слів{#PreviousFormat} не буде достатньо. Я тобі доведу, Мамо! Ось побачиш."
+      DisplayName = "Тому що... {#DialogueItalicFormat}унгх{#PreviousFormat}... я його бісів син, ось звідки я знаю! Але я розумію, що самих лише {#DialogueItalicFormat}моїх слів {#PreviousFormat}не буде достатньо. Я тобі доведу, Мамо! Ось побачиш."
     }
     {
       /*
