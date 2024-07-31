@@ -15389,7 +15389,7 @@
       */
       Id = "Hypnos_0279"
       Speaker = "Hypnos"
-      DisplayName = "Що справді? {#DialogueItalicFormat}Хах{#PreviousFormat}! Отже, {#DialogueItalicFormat}твоя{#PreviousFormat} мама також зовсім не проводить з тобою часу! У нас з тобою є дещо спільне!"
+      DisplayName = "Що справді? {#DialogueItalicFormat}Хах{#PreviousFormat}! Отже, {#DialogueItalicFormat}твоя {#PreviousFormat}мама також зовсім не проводить з тобою часу! У нас з тобою є дещо спільне!"
     }
     {
       /*
