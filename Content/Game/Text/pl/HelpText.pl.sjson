@@ -2602,7 +2602,7 @@
     {
       Id = "GunExplodingSecondaryTrait"
       DisplayName = "Ракетна Небезпека"
-      Description = "{$Keywords.Special} замінюється на ракету, що завдає {#AltUpgradeFormat}{$TooltipData.TooltipDamage}{#PreviousFormat}  шкоди."
+      Description = "{$Keywords.Special} замінюється на ракету, що завдає {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}шкоди."
     }
     {
       Id = "GunSlowGrenade"
