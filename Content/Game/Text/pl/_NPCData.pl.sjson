@@ -42431,7 +42431,7 @@
       */
       Id = "ZagreusField_3648"
       Speaker = "Zagreus"
-      DisplayName = "Навіть запитати не наважуся, {#DialogueItalicFormat}хто ж{#PreviousFormat} тоді привів тебе до Батька. Отже, по суті, ти втекла з дому, щоб жити з {#DialogueItalicFormat}ним{#PreviousFormat}? Не хочу тебе образити, але... ти взагалі усвідомлювала, у що вплутувалася?"
+      DisplayName = "Навіть запитати не наважуся, {#DialogueItalicFormat}хто ж {#PreviousFormat}тоді привів тебе до Батька. Отже, по суті, ти втекла з дому, щоб жити з {#DialogueItalicFormat}ним{#PreviousFormat}? Не хочу тебе образити, але... ти взагалі усвідомлювала, у що вплутувалася?"
     }
     {
       /*
