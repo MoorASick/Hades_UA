@@ -1315,6 +1315,11 @@
     {
       Id = "AphroditeRangedTrait_Initial"
       InheritFrom = "AphroditeRangedTrait"
+      Description = "{$Keywords.Cast} перетворюється на широкий вибух близької дії, що накладає {$Keywords.Weak}. \n {!Icons.Bullet}{#PropertyFormat}Шкода від Метання: \Column 380 {#OldFormat}{$TooltipData.BaseRangedDamage}{!Icons.RightArrow}{$TooltipData.NewTotal1}"
+    }
+	{
+      Id = "AphroditeRangedTrait_Tray"
+      InheritFrom = "AphroditeRangedTrait"
       Description = "{$Keywords.Cast} перетворюється на широкий вибух близької дії, що накладає {$Keywords.Weak}. \n {!Icons.Bullet}{#PropertyFormat}Шкода від Метання: \Column 380 {$TooltipData.NewTotal1}"
     }
     {
