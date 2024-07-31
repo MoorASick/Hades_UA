@@ -12142,7 +12142,7 @@
       */
       Id = "HadesField_0407"
       Speaker = "Hades"
-      DisplayName = "{#DialogueItalicFormat}Тц. {#PreviousFormat}Радій, що вони й досі не знають про це, враховуючи всі твої втручання. Ти не так добре з ними знайомий, як тобі могло здатися. Запитай себе, чому і як вона покинула Олімп. Або навіть краще, запитай {#DialogueItalicFormat}її{#PreviousFormat}."
+      DisplayName = "{#DialogueItalicFormat}Тц. {#PreviousFormat}Радій, що вони й досі не знають про це, враховуючи всі твої втручання. Ти не так добре з ними знайомий, як тобі могло здатися. Запитай себе, чому вона покинула Олімп, та як. Або навіть краще, запитай {#DialogueItalicFormat}її{#PreviousFormat}."
     }
     {
       /*
