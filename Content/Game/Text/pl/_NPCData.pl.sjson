@@ -23942,7 +23942,7 @@
       */
       Id = "Dusa_0478"
       Speaker = "Dusa"
-      DisplayName = "Але ж це {#DialogueItalicFormat}не{#PreviousFormat} те саме! Відчуття від цього тепер зовсім інші! Ось побачите! Тож, гаразд!! Бувайте!"
+      DisplayName = "Але ж це {#DialogueItalicFormat}не {#PreviousFormat}те саме! Відчуття від цього тепер зовсім інші! Ось побачите! Тож, гаразд!! Бувайте!"
     }
     {
       /*
