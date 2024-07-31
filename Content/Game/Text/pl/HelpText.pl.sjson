@@ -6145,17 +6145,17 @@
     {
       Id = "BuffMegaPom"
       DisplayName = "Гранатова Каша"
-      Description = "Делікатес Підземного Царства; ваші випадкові {#BoldFormatGraft}{$Keywords.GodBoonPlural}{#PreviousFormat} (до {#UpgradeFormat}4 {#PreviousFormat}) отримають {#AltUpgradeFormat}+1 Рів.{#PreviousFormat}"
+      Description = "Делікатес Підземного Царства; ваші випадкові {#BoldFormatGraft}{$Keywords.GodBoonPlural} {#PreviousFormat}(до {#UpgradeFormat}4 {#PreviousFormat}) отримають {#AltUpgradeFormat}+1 Рів.{#PreviousFormat}"
     }
     {
       Id = "BuffSlottedBoonRarity"
       DisplayName = "Насолода Амброзії"
-      Description = "Боги від них божеволіють; ваші випадкові {#BoldFormatGraft}{$Keywords.GodBoonPlural}{#PreviousFormat} (до {#UpgradeFormat}2 {#PreviousFormat}) покращать свою {$Keywords.Rarity}."
+      Description = "Боги від них божеволіють; ваші випадкові {#BoldFormatGraft}{$Keywords.GodBoonPlural} {#PreviousFormat}(до {#UpgradeFormat}2 {#PreviousFormat}) покращать свою {$Keywords.Rarity}."
     }
     {
       Id = "BuffFutureBoonRarity"
       DisplayName = "Освіжаючий Нектар"
-      Description = "Рідкісний та ароматний напій; наступні {#BoldFormatGraft}{$Keywords.GodBoonPlural}{#PreviousFormat} {#UpgradeFormat}3 {#PreviousFormat} які ви знайдете, будуть мати покращену {$Keywords.Rarity}."
+      Description = "Рідкісний та ароматний напій; наступні {#BoldFormatGraft}{$Keywords.GodBoonPlural} {#PreviousFormat}{#UpgradeFormat}3 {#PreviousFormat} які ви знайдете, будуть мати покращену {$Keywords.Rarity}."
     }
     {
       Id = "SuperTemporaryBoonRarityTrait"
