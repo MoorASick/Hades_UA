@@ -3062,7 +3062,7 @@
     {
       Id = "BowMarkHomingTrait_Tray"
       InheritFrom = "BowMarkHomingTrait"
-      Description = "{$Keywords.Special} автоматично вишукує останнього ворога, котрого вразила ваша {$Keywords.Attack}. \n {!Icons.Bullet}{#PropertyFormat}Макс. кількість пострілів які випускає {$Keywords.Special}: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipProjectiles}"
+      Description = "{$Keywords.Special} автоматично вишукує останнього ворога, котрого вразила ваша {$Keywords.Attack}. \n {!Icons.Bullet}{#PropertyFormat}Макс. стріл які випускає {$Keywords.Special}: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipProjectiles}"
     }
     {
       Id = "BowBondTrait"
