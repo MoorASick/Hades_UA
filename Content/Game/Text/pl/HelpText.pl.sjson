@@ -6402,7 +6402,7 @@
     }
     {
       Id = "Cosmetic_NorthHallPaintingElysium"
-      DisplayName = "Пейзаж: Єлисейські поля"
+      DisplayName = "Пейзаж: Елісій"
       Description = "{$Keywords.Cosmetic}: Відображає поля, на які потрапляють найвеличніші душі."
     }
     {
@@ -6428,7 +6428,7 @@
     {
       Id = "Cosmetic_NorthHallPaintingTheseus"
       DisplayName = "Картина: Величний Герой"
-      Description = "{$Keywords.Cosmetic}: На ній зображено чемпіона Єлисейських полів."
+      Description = "{$Keywords.Cosmetic}: На ній зображено чемпіона Елісія."
     }
     {
       Id = "Cosmetic_NorthHallPaintingMysteryGirl"
@@ -6492,7 +6492,7 @@
     }
     {
       Id = "Cosmetic_NorthHallRugA"
-      DisplayName = "Килим: Єлисейський"
+      DisplayName = "Килим: Елісій"
       Description = "{$Keywords.Cosmetic}: Додає трішки королівського стилю у західний зал."
     }
     {
@@ -6672,7 +6672,7 @@
     }
     {
       Id = "Cosmetic_LoungeRugA"
-      DisplayName = "Килим: Єлисейський"
+      DisplayName = "Килим: Елісій"
       Description = "{$Keywords.Cosmetic}: Додає трішки королівського стилю у кімнату відпочинку."
     }
     {
@@ -6962,7 +6962,7 @@
     }
     {
       Id = "ElysiumReprieve"
-      DisplayName = "Зала з фонтаном: Єлисейські поля"
+      DisplayName = "Зала з фонтаном: Елісій"
       Description = "{$Keywords.NewChamber}: Відновлює небагато {!Icons.HealthHome_Small} серед пишної зелені."
     }
     {
@@ -7103,7 +7103,7 @@
     {
       Id = "AchillesPatroclusQuestItem"
       DisplayName = "Жертва Героя"
-      Description = "{$Keywords.KeyItem}: {$Keywords.Achilles} зможе повернутися на Єлисейські поля."
+      Description = "{$Keywords.KeyItem}: {$Keywords.Achilles} зможе повернутися в Елісій."
     }
     {
       Id = "TraitQuestItem"
@@ -7189,7 +7189,7 @@
     {
       Id = "MusicMusicPlayerMusicElysium2MusicPlayer"
       DisplayName = "Піднесені"
-      Description = "{$Keywords.MusicSheet}: Шана могутнім героям Єлисейських полів."
+      Description = "{$Keywords.MusicSheet}: Шана могутнім героям Елісію."
     }
     {
       Id = "MusicMusicPlayerMusicElysium3MusicPlayer"
@@ -7287,7 +7287,7 @@
     }
     {
       Id = "ElysiumStory"
-      DisplayName = "Грот Честі Єлисейських полів"
+      DisplayName = "Грот Честі Елісію"
       Description = "{$Keywords.NewChamber}. Тут заточено тінь, якій судилося загинути у великій війні."
     }
     {
@@ -9206,7 +9206,7 @@
     }
     {
       Id = "Remembrance_Elysium"
-      DisplayName = "єлисейські поля"
+      DisplayName = "елісій"
     }
     {
       Id = "Remembrance_Mistakes"
@@ -9406,15 +9406,15 @@
     }
     {
       Id = "Location_Elysium"
-      DisplayName = "ЄЛИСЕЙСЬКІ ПОЛЯ"
+      DisplayName = "ЕЛІСІЙ"
     }
     {
       Id = "Location_Elysium_Short"
-      DisplayName = "ЄЛИСЕЙСЬКІ ПОЛЯ"
+      DisplayName = "ЕЛІСІЙ"
     }
     {
       Id = "Elysium"
-      DisplayName = "Єлисейські Поля"
+      DisplayName = "Елісій"
     }
     {
       Id = "Location_Styx"
@@ -11168,7 +11168,7 @@
     }
     {
       Id = "Ghost_AboutAchilles02"
-      DisplayName = "Частину часу Ахіллес проводить тут, а іншу — на Єлисейських полях, ха?"
+      DisplayName = "Частину часу Ахіллес проводить тут, а іншу — в Елісії, ха?"
     }
     {
       Id = "Ghost_BranchCause"
@@ -11200,7 +11200,7 @@
     }
     {
       Id = "Ghost_AboutChampions01"
-      DisplayName = "На Єлисейських полях щось трапилося, але я не знаю, що саме!"
+      DisplayName = "У Елісії щось трапилося, але я не знаю, що саме!"
     }
     {
       Id = "Ghost_ToadCause"
@@ -11208,7 +11208,7 @@
     }
     {
       Id = "Ghost_AboutChampions02"
-      DisplayName = "Ти чув? Чемпіона Єлисейських полів перемогли!"
+      DisplayName = "Ти чув? Чемпіона Елісію перемогли!"
     }
     {
       Id = "Ghost_GardenToolCause"
@@ -12260,19 +12260,19 @@
     }
     {
       Id = "RunHistoryScreenResult_Elysium"
-      DisplayName = "Загинув на {#AltPenaltyFormat}ЄЛИСЕЙСЬКИХ ПОЛЯХ{#PreviousFormat}"
+      DisplayName = "Загинув у {#AltPenaltyFormat}ЕЛІСІЇ{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_C_MiniBoss01"
-      DisplayName = "Убитий {#AltPenaltyFormat}БИКОМ МІНОСА {#PreviousFormat}на {#AltPenaltyFormat}ЄЛИСЕЙСЬКИХ ПОЛЯХ{#PreviousFormat}"
+      DisplayName = "Убитий {#AltPenaltyFormat}БИКОМ МІНОСА {#PreviousFormat}у {#AltPenaltyFormat}ЕЛІСІЇ{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_C_MiniBoss02"
-      DisplayName = "Убитий {#AltPenaltyFormat}ДУШОЛОВОМ {#PreviousFormat}на {#AltPenaltyFormat}ЄЛИСЕЙСЬКИХ ПОЛЯХ{#PreviousFormat}"
+      DisplayName = "Убитий {#AltPenaltyFormat}ДУШОЛОВОМ {#PreviousFormat}у {#AltPenaltyFormat}ЕЛІСІЇ{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_C_Boss01"
-      DisplayName = "Убитий {#AltPenaltyFormat}ЧЕМПІОНАМИ {#PreviousFormat} {#AltPenaltyFormat}ЄЛИСЕЙСЬКИХ ПОЛІВ{#PreviousFormat}"
+      DisplayName = "Убитий {#AltPenaltyFormat}ЧЕМПІОНАМИ {#PreviousFormat} {#AltPenaltyFormat}ЕЛІСІЯ{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_Styx"

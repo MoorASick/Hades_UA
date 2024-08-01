@@ -203,7 +203,7 @@
     }
     {
       Id = "RichPresence_Elysium"
-      DisplayName = "Пробивається з боєм з Єлисейських полів"
+      DisplayName = "Пробивається з боєм з Елісія"
     }
     {
       Id = "RichPresence_Styx"
@@ -247,7 +247,7 @@
     }
     {
       Id = "RichPresence_CBoss01"
-      DisplayName = "Бореться з чемпiоном Єлисейських полів"
+      DisplayName = "Бореться з чемпiоном Елісія"
     }
     {
       Id = "RichPresence_DBoss01"
