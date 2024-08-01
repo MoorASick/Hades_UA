@@ -5671,7 +5671,7 @@
     }
     {
       Id = "MinibossCount"
-      DisplayName = "Керівники Середньої Ланки"
+      DisplayName = "Керуючі Середньою Ланкою"
       Description = "У кожній сутичці з {#BoldFormatGraft}міні-босом {#PreviousFormat} додається {#TooltipPenaltyFormat}+{$TempTextData.BaseValue} {#PreviousFormat}{#BoldFormatGraft}броньований {#PreviousFormat}ворог(ів) {#ItalicFormat}(або інша додаткова проблема){#PreviousFormat}."
     }
     {
@@ -8915,7 +8915,7 @@
     {
       Id = "NPC_FurySister_02"
       DisplayName = "Алекто"
-      Description = "Мучителька Одержимих Пристрастю"
+      Description = "Мучителька Одержимих Жагою"
     }
     {
       Id = "NPC_FurySister_Unnamed_02"
@@ -8924,7 +8924,7 @@
     {
       Id = "Harpy2"
       DisplayName = "Алекто"
-      Description = "Мучителька Одержимих Пристрастю"
+      Description = "Мучителька Одержимих Жагою"
     }
     {
       Id = "Harpy2_Full"
@@ -12168,7 +12168,7 @@
     }
     {
       Id = "RunClearScreen_NewRecord"
-      DisplayName = "Новий Рекорд!"
+      DisplayName = "Рекорд!"
     }
     {
       Id = "RunClearScreen_Header_Weapon"
@@ -12180,7 +12180,7 @@
     }
     {
       Id = "RunClearScreen_Header_RecordClearTime"
-      DisplayName = "Найкр. час"
+      DisplayName = "Рекорд"
     }
     {
       Id = "RunClearScreen_Header_RecordShrinePoints"
