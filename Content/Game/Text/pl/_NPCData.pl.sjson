@@ -30944,7 +30944,7 @@
       */
       Id = "ZagreusHome_3167"
       Speaker = "Zagreus"
-      DisplayName = "Зачекай, ти хочеш сказати, що ти б {#DialogueItalicFormat}менше{#PreviousFormat} соромилася результатів наших битв, якби я {#DialogueItalicFormat}більше{#PreviousFormat} зловтішався через те, що переміг тебе? Який у цьому сенс?"
+      DisplayName = "Зачекай, ти хочеш сказати, що ти б {#DialogueItalicFormat}менше {#PreviousFormat}соромилася результатів наших битв, якби я {#DialogueItalicFormat}більше {#PreviousFormat}зловтішався через те, що переміг тебе? Який у цьому сенс?"
     }
     {
       /*
