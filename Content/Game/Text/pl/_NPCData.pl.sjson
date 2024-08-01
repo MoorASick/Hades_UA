@@ -22437,7 +22437,7 @@
       */
       Id = "Dusa_0127"
       Speaker = "Dusa"
-      DisplayName = "Ні, {#DialogueItalicFormat}ні-ні-ні-ні{#PreviousFormat}, все якраз навпаки, я... не можу повірити, що ви допомогли мені з кімнатою відпочинку. Я не думаю, що взагалі {#DialogueItalicFormat}хтось{#PreviousFormat} {#DialogueItalicFormat}коли-небудь{#PreviousFormat} допомагав мені так само, як ви, з прибиранням за Цербером, з новим килимом, з кухнею, та й загалом, всім цим!"
+      DisplayName = "Ні, {#DialogueItalicFormat}ні-ні-ні-ні{#PreviousFormat}, все якраз навпаки, я... не можу повірити, що ви допомогли мені з кімнатою відпочинку. Я не думаю, що взагалі {#DialogueItalicFormat}хтось {#PreviousFormat}{#DialogueItalicFormat}коли-небудь {#PreviousFormat}допомагав мені так само, як ви, з прибиранням за Цербером, з новим килимом, з кухнею, та й загалом, всім цим!"
     }
     {
       /*
