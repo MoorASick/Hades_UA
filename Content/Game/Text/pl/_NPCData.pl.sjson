@@ -24056,7 +24056,7 @@
       */
       Id = "Hypnos_0184"
       Speaker = "Hypnos"
-      DisplayName = "{#DialogueItalicFormat}І не кажи{#PreviousFormat}! Ці тіні, вони просто йдуть і {#DialogueItalicFormat}йдуть і йдуть{#PreviousFormat}, без упину, постійно балакають про те чи інше! Ну тобто, Володар Аїд, дивно, що він взагалі {#DialogueItalicFormat}витримує{#PreviousFormat} їх, адже йому доводиться постійно вислуховувати це вдень чи вночі!"
+      DisplayName = "{#DialogueItalicFormat}І не кажи{#PreviousFormat}! Ці тіні, вони просто йдуть і {#DialogueItalicFormat}йдуть і йдуть{#PreviousFormat}, без упину, постійно балакають про те чи інше! Ну тобто, Володар Аїд, дивно, що він взагалі {#DialogueItalicFormat}витримує {#PreviousFormat}їх, адже йому доводиться постійно вислуховувати це вдень чи вночі!"
     }
     {
       /*
