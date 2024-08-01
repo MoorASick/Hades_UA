@@ -12917,7 +12917,7 @@
       */
       Id = "Hermes_0075"
       Speaker = "Hermes"
-      DisplayName = "У мене для тебе повідомлення, Бро. Тут сказано {#DialogueItalicFormat}кхм{#PreviousFormat}: {#DialogueItalicFormat}«Поспішай та вибирайся звідти нарешті.»{#PreviousFormat} Воно з поверхні землі, так тут написано."
+      DisplayName = "У мене для тебе повідомлення, Бро. Тут сказано {#DialogueItalicFormat}кхм{#PreviousFormat}: {#DialogueItalicFormat}«Поспішай та вибирайся звідти нарешті.» {#PreviousFormat}Воно з поверхні землі, так тут написано."
     }
     {
       /*
