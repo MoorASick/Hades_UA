@@ -11698,7 +11698,7 @@
     {
       Id = "ProfileScreen_HardMode"
       DisplayName = "{#SpecialMenuSettingDarkFormat}@GUI\\Shell\\HardMode Пекельний Режим"
-      Description = "Для всіх тих, хто не боїться смерті та інших складнощів, {#AlertHighlightFormat}Пакт Покарань {#PreviousFormat}відразу ж зможе ускладнити вам життя. \n {#AlertItalicFormat}Оберіть цей варіант, якщо ви вже ветеран та бажаєте ускладнити ігровий процес. \n\n {#AlertBoldFormat}УВАГА! Ви не зможете змінити це потім!"
+      Description = "Для всіх тих, хто не боїться смерті та інших складнощів, {#AlertHighlightFormat}Пакт Покарань {#PreviousFormat}відразу ж зможе ускладнити вам життя. \n {#AlertItalicFormat}Оберіть цей варіант, якщо ви вже ветеран та бажаєте ускладнити ігровий процес. \n\n {#AlertBoldFormat}УВАГА! Ви не зможете змінити цей вибір потім!"
     }
     {
       Id = "ProfileScreen_InstructionHint"
