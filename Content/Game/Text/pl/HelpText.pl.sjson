@@ -5671,7 +5671,7 @@
     }
     {
       Id = "MinibossCount"
-      DisplayName = "Керуючі Середньою Ланкою"
+      DisplayName = "Керуючі Середньої Ланки"
       Description = "У кожній сутичці з {#BoldFormatGraft}міні-босом {#PreviousFormat} додається {#TooltipPenaltyFormat}+{$TempTextData.BaseValue} {#PreviousFormat}{#BoldFormatGraft}броньований {#PreviousFormat}ворог(ів) {#ItalicFormat}(або інша додаткова проблема){#PreviousFormat}."
     }
     {
