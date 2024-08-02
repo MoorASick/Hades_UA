@@ -45454,7 +45454,7 @@
       */
       Id = "Hades_0930"
       Speaker = "Hades"
-      DisplayName = "...Ні. Гадаю, що ні. Але ми їм {#DialogueItalicFormat}потрібні {#PreviousFormat}!"
+      DisplayName = "...Ні. Гадаю, що ні. Але ми їм {#DialogueItalicFormat}потрібні{#PreviousFormat}!"
     }
     {
       /*
