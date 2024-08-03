@@ -1360,12 +1360,12 @@
     {
       Id = "AphroditePotencyTrait"
       DisplayName = "Розбита Рішучість"
-      Description = "{$Keywords.Weak} стає дієвішою. \n {!Icons.Bullet}{#PropertyFormat}Зменшення Шкоди від Ослаблених Ворогів: \Column 380 {$TooltipData.DisplayDelta1} {#UpgradeFormat}"
+      Description = "{$Keywords.Weak} стає дієвішою. \n {!Icons.Bullet}{#PropertyFormat}Зменш. Шкоди від Ослаблених Ворогів: \Column 380 {$TooltipData.DisplayDelta1} {#UpgradeFormat}"
     }
     {
       Id = "AphroditePotencyTrait_Initial"
       InheritFrom = "AphroditeDurationTrait"
-      Description = "{$Keywords.Weak} стає дієвішою. \n {!Icons.Bullet}{#PropertyFormat}Зменшення Шкоди від Ослаблених Ворогів: \Column 380 {#UpgradeFormat}{$TooltipData.NewTotal1} {#UpgradeFormat}"
+      Description = "{$Keywords.Weak} стає дієвішою. \n {!Icons.Bullet}{#PropertyFormat}Зменш. Шкоди від Ослаблених Ворогів: \Column 380 {#UpgradeFormat}{$TooltipData.NewTotal1} {#UpgradeFormat}"
     }
     {
       Id = "AphroditeDeathTrait"
