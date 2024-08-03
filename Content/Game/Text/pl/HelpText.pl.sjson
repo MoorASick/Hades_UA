@@ -12184,7 +12184,7 @@
     }
     {
       Id = "RunClearScreen_Header_RecordShrinePoints"
-      DisplayName = "Найвища {!Icons.ShrinePointSmall_Active}"
+      DisplayName = "Макс. {!Icons.ShrinePointSmall_Active}"
     }
     {
       Id = "RunHistoryScreen_Title"
