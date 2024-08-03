@@ -10008,7 +10008,7 @@
     }
     {
       Id = "Keepsake_Blocked_Subtitle"
-      DisplayName = "Більше спорядити не вийде (поки що...)"
+      DisplayName = "Спорядити не вийде (поки що...)"
     }
     {
       Id = "AssistTraitUpgrade_Subtitle"
