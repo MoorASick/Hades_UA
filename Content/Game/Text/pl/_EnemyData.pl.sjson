@@ -5859,7 +5859,7 @@
       */
       Id = "ZagreusField_3809"
       Speaker = "Zagreus"
-      DisplayName = "Здається, я починаю помічати, що тобі не потрібна серйозна причина, щоб {#DialogueItalicFormat}розсердитися{#PreviousFormat} на мене, правда?"
+      DisplayName = "Здається, я починаю помічати, що тобі не потрібна серйозна причина, щоб {#DialogueItalicFormat}розсердитися {#PreviousFormat}на мене, правда?"
     }
     {
       /*
