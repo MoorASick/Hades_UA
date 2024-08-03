@@ -12908,7 +12908,7 @@
       */
       Id = "Hermes_0074"
       Speaker = "Hermes"
-      DisplayName = "Для тебе повідомлення, бос. У ньому сказано: {#DialogueItalicFormat}«Ти такий повільний. От би хто допоміг тобі з цим.»{#PreviousFormat} Ха, дивно, який збіг!"
+      DisplayName = "Для тебе повідомлення, бос. У ньому сказано: {#DialogueItalicFormat}«Ти такий повільний. От би хто допоміг тобі з цим.» {#PreviousFormat}Ха, дивно, який збіг!"
     }
     {
       /*
