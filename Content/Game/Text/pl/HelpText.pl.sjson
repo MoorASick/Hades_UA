@@ -9599,7 +9599,7 @@
     }
     {
       Id = "AssistTraitsPermitted_Subtitle"
-      DisplayName = "Викликів Проти Аїда"
+      DisplayName = "Виклики Проти Аїда"
     }
     {
       Id = "BadgeSellerUnlocked_Subtitle"
