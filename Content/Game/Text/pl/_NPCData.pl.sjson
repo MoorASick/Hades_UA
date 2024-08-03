@@ -10757,7 +10757,7 @@
       */
       Id = "ZagreusHome_2192"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Ох{#PreviousFormat}, я... ну, по суті, він — живий скелет, який з’являється на порозі моєї спальні, та дозволяє мені тренуватися зі зброєю на ньому. Я чомусь подумав, що це {#DialogueItalicFormat}ти{#PreviousFormat} намовила його на це. Отже, це була не ти?"
+      DisplayName = "{#DialogueItalicFormat}Ох{#PreviousFormat}, я... ну, по суті, він — живий скелет, який з’являється на порозі моєї спальні, та дозволяє мені тренуватися зі зброєю на ньому. Я чомусь подумав, що це {#DialogueItalicFormat}ти {#PreviousFormat}намовила його на це. Отже, це була не ти?"
     }
     {
       /*
