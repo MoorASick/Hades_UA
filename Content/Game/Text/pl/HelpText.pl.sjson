@@ -5526,7 +5526,7 @@
     }
     {
       Id = "AboveShrineRewardThreshold_3_Alt01"
-      DisplayName = "{!Icons.Bullet} Шкала Жагучості... що ви накоїли?.."
+      DisplayName = "{!Icons.Bullet} Шкала Жагучості... що ви накоїли...?"
     }
     {
       Id = "AboveShrineRewardThreshold_3_Alt02"
@@ -10972,7 +10972,7 @@
     }
     {
       Id = "Ghost_Myth"
-      DisplayName = "Це так чудово — побачити всіх цих богів на власні очі!.."
+      DisplayName = "Це так чудово — побачити всіх цих богів на власні очі...!"
     }
     {
       Id = "Ghost_Physician"
@@ -11024,7 +11024,7 @@
     }
     {
       Id = "Ghost_Glimpse"
-      DisplayName = "Я б зробив що завгодно, аби хоч на секунду поглянути на Афродіту!.."
+      DisplayName = "Я б зробив що завгодно, аби хоч на секунду поглянути на Афродіту...!"
     }
     {
       Id = "Ghost_Hurt"
@@ -11328,7 +11328,7 @@
     }
     {
       Id = "Ghost_Misc15"
-      DisplayName = "Гей, коли хоч хтось із вас востаннє хотів їсти?.."
+      DisplayName = "Гей, коли хоч хтось із вас востаннє хотів їсти...?"
     }
     {
       Id = "Ghost_WitchcraftCause"
