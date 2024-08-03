@@ -23489,7 +23489,7 @@
       */
       Id = "ZagreusHome_1987"
       Speaker = "Zagreus"
-      DisplayName = "Що, зачекай, ти ж не хочеш сказати, що... {#DialogueItalicFormat}ні{#PreviousFormat}, невже від самої Нікс? Ти що, стривай-но, Дузо... адже ти не, як би це сказати, {#DialogueItalicFormat}позичила{#PreviousFormat}її у Нікс, правда?"
+      DisplayName = "Що, зачекай, ти ж не хочеш сказати, що... {#DialogueItalicFormat}ні{#PreviousFormat}, невже від самої Нікс? Ти що, стривай-но, Дузо... адже ти не, як би це сказати, {#DialogueItalicFormat}позичила {#PreviousFormat}її у Нікс, правда?"
     }
     {
       /*
