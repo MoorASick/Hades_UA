@@ -1,0 +1,1 @@
+cp -R "$(dirname $0)/" "$HOME/Library/Application Support/Steam/steamapps/common/Hades/Game.macOS.app/Contents/Resources"

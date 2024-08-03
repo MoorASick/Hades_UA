@@ -1,0 +1,19 @@
+{
+  "RalewayBold": "DefaultBold",
+  "UbuntuMonoBold": "DefaultBold",
+  "AlegreyaSCBold": "DefaultBold",
+  "AlegreyaSCBoldTracking": "DefaultBold",
+  "CrimsonTextBoldItalic": "AlegreyaSansExtraBoldItalic",
+  "CaesarDressing": "Underdog",
+
+  /* Virtual Fonts */
+  "Credits_AlegreyaSansItalic": "AlegreyaSansItalic",
+  "Credits_AlegreyaSansRegular": "AlegreyaSansRegular",
+  "Credits_AlegreyaSansSCExtraBold": "AlegreyaSansSCExtraBold",
+  "Credits_AlegreyaSansSCMedium": "AlegreyaSansSCMedium",
+  "Credits_AlegreyaSansSCRegular": "AlegreyaSansSCRegular",
+  "Credits_SpectralSCExtraLight": "SpectralSCExtraLight",
+  "Credits_AlegreyaSansSCLight": "AlegreyaSansSCLight",
+  "Credits_AlegreyaSansExtraBold": "AlegreyaSansExtraBold",
+  "Credits_AlegreyaSansSCBold": "AlegreyaSansSCBold",
+}
