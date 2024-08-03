@@ -10733,7 +10733,7 @@
       */
       Id = "ZagreusHome_2191"
       Speaker = "Zagreus"
-      DisplayName = "Нікс, мабуть ім'я {#DialogueItalicFormat}Скеллі{#PreviousFormat} тобі ні про що не говорить, еге ж?"
+      DisplayName = "Нікс, мабуть ім'я {#DialogueItalicFormat}Скеллі {#PreviousFormat}тобі ні про що не говорить, еге ж?"
     }
     {
       /*
