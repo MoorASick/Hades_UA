@@ -6135,7 +6135,7 @@
     {
       Id = "TemporaryBlockExplodingChariotsTrait"
       DisplayName = "Звільнення для Колісниць"
-      Description = "{$Keywords.PassiveItem}. ({$TooltipData.BlockedEnemyTypes[1]}) більше не буде з'являтися в Сутичках. \n {!Icons.Bullet}{#PropertyFormat}Тривалість: \Column 380 {#BoldFormat}{$TooltipData.RemainingUses} {$Keywords.EncounterAlt}"
+      Description = "{$Keywords.PassiveItem}. {$TooltipData.BlockedEnemyTypes[1]} більше не буде з'являтися в Сутичках. \n {!Icons.Bullet}{#PropertyFormat}Тривалість: \Column 380 {#BoldFormat}{$TooltipData.RemainingUses} {$Keywords.EncounterAlt}"
     }
     {
       Id = "TemporaryForcedFishingPointTrait"
