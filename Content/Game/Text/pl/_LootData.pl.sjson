@@ -9195,7 +9195,7 @@
       */
       Id = "Poseidon_0130"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Ба{#PreviousFormat}, {#DialogueItalicFormat}кхм{#PreviousFormat}, так ось, як я вже казав, Аїде молодший! Брат Зевс – цар всіх богів! Наймогутніший, найхаризматичніший і, чого приховувати, {#DialogueItalicFormat}найбожественніший{#PreviousFormat} з усіх!"
+      DisplayName = "{#DialogueItalicFormat}Ба{#PreviousFormat}, {#DialogueItalicFormat}кхм{#PreviousFormat}, так ось, як я вже казав, Аїде молодший! Брат Зевс – цар всіх богів! Наймогутніший, найхаризматичніший і, чого приховувати, {#DialogueItalicFormat}найбожественніший {#PreviousFormat}з усіх!"
     }
     {
       /*
