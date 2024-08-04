@@ -24336,7 +24336,7 @@
       */
       Id = "Dusa_0072"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}Ха, ха-хах{#PreviousFormat}, які ж вони дурники! Про що вони взагалі думали, намагаючись пролізти без черги, ну, тобто перед {#DialogueItalicFormat}тобою{#PreviousFormat}?"
+      DisplayName = "{#DialogueItalicFormat}Ха, ха-хах{#PreviousFormat}, які ж вони дурники! Про що вони взагалі думали, намагаючись пролізти без черги, ну, тобто перед {#DialogueItalicFormat}вами{#PreviousFormat}?"
     }
     {
       /*
