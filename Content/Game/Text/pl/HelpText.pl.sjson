@@ -1245,12 +1245,12 @@
     {
       Id = "AresLongCurseTrait"
       DisplayName = "Неминуча Загибель"
-      Description = "{$Keywords.Curse} завдає більше шкоди, але активується на {#BoldFormatGraft}+{$TooltipData.TooltipDelay}Сек. {#PreviousFormat}пізніше. \n {!Icons.Bullet}{#PropertyFormat}Бонусна Шкода від Ефекту {$Keywords.Curse}: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
+      Description = "{$Keywords.Curse} завдає більше шкоди, але активується на {#BoldFormatGraft}+{$TooltipData.TooltipDelay} Сек. {#PreviousFormat}пізніше. \n {!Icons.Bullet}{#PropertyFormat}Бонусна Шкода від Ефекту {$Keywords.Curse}: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
     }
     {
       Id = "AresLongCurseTrait_Initial"
       InheritFrom = "AresLongCurseTrait"
-      Description = "{$Keywords.Curse} завдає більше шкоди, але активується на {#BoldFormatGraft}+{$TooltipData.TooltipDelay}Сек. {#PreviousFormat}пізніше. \n {!Icons.Bullet}{#PropertyFormat}Бонусна Шкода від Ефекту {$Keywords.Curse}: \Column 380 {#PreviousFormat}{$TooltipData.NewTotal1}"
+      Description = "{$Keywords.Curse} завдає більше шкоди, але активується на {#BoldFormatGraft}+{$TooltipData.TooltipDelay} Сек. {#PreviousFormat}пізніше. \n {!Icons.Bullet}{#PropertyFormat}Бонусна Шкода від Ефекту {$Keywords.Curse}: \Column 380 {#PreviousFormat}{$TooltipData.NewTotal1}"
     }
     {
       Id = "LastStandDamageBonusTrait"
