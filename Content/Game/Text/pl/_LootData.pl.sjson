@@ -6752,7 +6752,7 @@
       */
       Id = "Dionysus_0123"
       Speaker = "Dionysus"
-      DisplayName = "{#DialogueItalicFormat}Ох-хох{#PreviousFormat}, Заг, у мене є для тебе дещо особливе, ну типу, {#DialogueItalicFormat}це {#PreviousFormat}справді дещо першокласне, {#DialogueItalicFormat}навіть{#PreviousFormat} якщо порівняти з іншими моїми першокласними пропозиціями, ти тільки-но поглянь!"
+      DisplayName = "{#DialogueItalicFormat}Ох-хох{#PreviousFormat}, Заг, у мене є для тебе дещо особливе, ну типу, {#DialogueItalicFormat}це {#PreviousFormat}справді дещо першокласне, {#DialogueItalicFormat}навіть {#PreviousFormat}якщо порівняти з іншими моїми першокласними пропозиціями, ти тільки-но поглянь!"
     }
     {
       /*
