@@ -10358,7 +10358,7 @@
     {
       Id = "ShieldAfterHitTrait"
       DisplayName = "Зламане Вістря Списа"
-      Description = "Отримуючи шкоду, отримуйте {$Keywords.Invulnerable} на {#AltUpgradeFormat}{$TooltipData.ShieldDuration} Сек. {#PreviousFormat}Оновлюється за {#BoldFormat}7 Сек.{#BoldFormat}"
+      Description = "Отримуючи шкоду, отримуйте {$Keywords.Invulnerable} на {#AltUpgradeFormat}{$TooltipData.ShieldDuration} Сек. {#PreviousFormat} Оновлюється за {#BoldFormat}7 Сек.{#BoldFormat}"
     }
     {
       Id = "ShieldAfterHitTrait_Rack"
