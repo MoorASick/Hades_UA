@@ -44060,7 +44060,7 @@
       */
       Id = "ZagreusHome_3335"
       Speaker = "Zagreus"
-      DisplayName = "Почекай, {#DialogueItalicFormat}ми{#PreviousFormat} були зворушені? Ти була тут, коли Орфей прийшов, щоб спробувати врятувати Еврідіку?"
+      DisplayName = "Почекай, {#DialogueItalicFormat}ми {#PreviousFormat}були зворушені? Ти була тут, коли Орфей прийшов, щоб спробувати врятувати Еврідіку?"
     }
     {
       /*
