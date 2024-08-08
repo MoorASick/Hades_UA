@@ -3494,7 +3494,7 @@
       */
       Id = "ZagreusHome_3669"
       Speaker = "Zagreus"
-      DisplayName = "Ти відповідаєш на побажання? {#DialogueItalicFormat}О-о.{#PreviousFormat} Тобі не здається, що деякі з твоїх підданих щиро радіють за тебе?"
+      DisplayName = "Ти відповідаєш на побажання? {#DialogueItalicFormat}О-о. {#PreviousFormat}Тобі не здається, що деякі з твоїх підданих щиро радіють за тебе?"
     }
     {
       /*
