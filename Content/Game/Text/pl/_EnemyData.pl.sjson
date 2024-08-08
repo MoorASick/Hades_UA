@@ -5804,7 +5804,7 @@
       */
       Id = "Alecto_0326"
       Speaker = "Alecto"
-      DisplayName = "Ви обоє викликаєте у мене огиду, Мег, ти знала це?. Зберись вже та {#DialogueItalicFormat}вбий {#PreviousFormat}його вже нарешті, чорт забирай!"
+      DisplayName = "Ви обоє викликаєте у мене огиду, Мег, ти знала це? Зберись вже та {#DialogueItalicFormat}вбий {#PreviousFormat}його вже нарешті, чорт забирай!"
     }
     {
       /*
