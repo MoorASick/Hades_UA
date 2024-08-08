@@ -44681,7 +44681,7 @@
       */
       Id = "Hades_0923"
       Speaker = "Hades"
-      DisplayName = "{#DialogueItalicFormat}Гр-р.{#PreviousFormat} Персефоно, як ти можеш бути настільки впевненою, що твоє прохання було виконане як слід?"
+      DisplayName = "{#DialogueItalicFormat}Гр-р. {#PreviousFormat}Персефоно, як ти можеш бути настільки впевненою, що твоє прохання було виконане як слід?"
     }
     {
       /*
