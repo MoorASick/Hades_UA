@@ -9483,7 +9483,7 @@
       */
       Id = "Theseus_0563"
       Speaker = "Theseus"
-      DisplayName = "Ах, який же ти огидний, демоне, ти смієш говорити подібне про Королеву! Приготуйся бути{#DialogueItalicFormat} знищеним {#PreviousFormat}в її честь!"
+      DisplayName = "Ах, який же ти огидний, демоне, ти смієш говорити подібне про Королеву! Приготуйся бути {#DialogueItalicFormat}знищеним {#PreviousFormat}в її честь!"
     }
     {
       /*
