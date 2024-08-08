@@ -6712,7 +6712,7 @@
       */
       Id = "Alecto_0024"
       Speaker = "Alecto"
-      DisplayName = "Бачиш? Саме {#DialogueItalicFormat}це {#PreviousFormat}я й маю на увазі. Якщо так подумати, як взагалі Мегера витримувала тебе весь цей час."
+      DisplayName = "Бачиш? Саме {#DialogueItalicFormat}це {#PreviousFormat}я й маю на увазі. В голові не вкладається, як Мегера взагалі витримувала тебе весь цей час."
     }
     {
       /*
