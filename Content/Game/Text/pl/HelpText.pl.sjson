@@ -11536,7 +11536,7 @@
     }
     {
       Id = "Outro_Bloodless"
-      DisplayName = "безкровний"
+      DisplayName = "безкровні"
     }
     {
       Id = "Outro_Misfortune"
