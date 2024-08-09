@@ -13365,7 +13365,7 @@
       */
       Id = "ZagreusHome_2250"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Пф-ф{#PreviousFormat}! Якщо я такий важливий, тоді може {#DialogueItalicFormat}мені{#PreviousFormat} варто обирати, з ким тут спілкуватися?"
+      DisplayName = "{#DialogueItalicFormat}Пф-ф{#PreviousFormat}! Якщо я такий важливий, тоді може {#DialogueItalicFormat}мені {#PreviousFormat}варто обирати, з ким тут спілкуватися?"
     }
     {
       /*
