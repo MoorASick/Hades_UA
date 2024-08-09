@@ -3943,7 +3943,7 @@
       */
       Id = "Artemis_0023"
       Speaker = "Artemis"
-      DisplayName = "Гей, Загрею, щасти тобі. Я могла б просто побажати тобі {#DialogueItalicFormat}«завжди влучати в ціль» {#PreviousFormat}, але буде краще, якщо я це гарантуватиму."
+      DisplayName = "Гей, Загрею, щасти тобі. Я могла б просто побажати тобі {#DialogueItalicFormat}«завжди влучати в ціль»{#PreviousFormat}, але буде краще, якщо я це гарантуватиму."
     }
     {
       /*
