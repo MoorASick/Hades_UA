@@ -37547,7 +37547,7 @@
       */
       Id = "ZagreusField_3481"
       Speaker = "Zagreus"
-      DisplayName = "Ризикнути всім? {#DialogueItalicFormat}Яким{#PreviousFormat} таким усім? Він хоче найкращого для вас. Він би не хотів, щоб сталося щось погане."
+      DisplayName = "Ризикнути всім? {#DialogueItalicFormat}Яким {#PreviousFormat}таким усім? Він хоче найкращого для вас. Він би не хотів, щоб сталося щось погане."
     }
     {
       /*
