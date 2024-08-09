@@ -11342,7 +11342,7 @@
       */
       Id = "Demeter_0201"
       Speaker = "Demeter"
-      DisplayName = "Скажи моїй Корі... {#DialogueItalicFormat}кхм,{#PreviousFormat} {#DialogueItalicFormat}Персефоні{#PreviousFormat}, тобто... Королеві! Скажи їй, що її мати передає свої щирі вітання. Обов'язково скажи це їй. І ти... піклуйся про неї."
+      DisplayName = "Скажи моїй Корі... {#DialogueItalicFormat}кхм, {#PreviousFormat}{#DialogueItalicFormat}Персефоні{#PreviousFormat}, тобто... Королеві! Скажи їй, що її мати передає свої щирі вітання. Обов'язково скажи це їй. І ти... піклуйся про неї."
     }
     {
       /*
