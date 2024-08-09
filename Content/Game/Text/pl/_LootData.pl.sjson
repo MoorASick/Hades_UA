@@ -13666,7 +13666,7 @@
       */
       Id = "Hermes_0039"
       Speaker = "Hermes"
-      DisplayName = "На тебе ще чекає довгий шлях, бос. Хороша новина в тому, що найповільніша частина цієї подорожі завершилася... {#DialogueItalicFormat}щойно {#PreviousFormat}!"
+      DisplayName = "На тебе ще чекає довгий шлях, бос. Хороша новина в тому, що найповільніша частина цієї подорожі завершилася... {#DialogueItalicFormat}щойно{#PreviousFormat}!"
     }
     {
       /*
