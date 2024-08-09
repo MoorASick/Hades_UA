@@ -16029,7 +16029,7 @@
       */
       Id = "Hypnos_0169"
       Speaker = "Hypnos"
-      DisplayName = "Стривай-но, {#DialogueItalicFormat}що{#PreviousFormat}, ти {#DialogueItalicFormat}вже{#PreviousFormat} повернувся? Гей, у моєму списку написано, що ти ледве встиг вийти і відразу ж помер. Ти взагалі старався? Бо якщо ж це так, ну, мабуть наступного разу тобі доведеться докласти {#DialogueItalicFormat}набагато{#PreviousFormat} більше зусиль!"
+      DisplayName = "Стривай-но, {#DialogueItalicFormat}що{#PreviousFormat}, ти {#DialogueItalicFormat}вже {#PreviousFormat}повернувся? Гей, у моєму списку написано, що ти ледве встиг вийти і відразу ж помер. Ти взагалі старався? Бо якщо ж це так, ну, мабуть наступного разу тобі доведеться докласти {#DialogueItalicFormat}набагато{#PreviousFormat} більше зусиль!"
     }
     {
       /*
