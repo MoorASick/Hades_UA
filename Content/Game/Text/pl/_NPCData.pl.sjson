@@ -12751,7 +12751,7 @@
       */
       Id = "ZagreusHome_3414"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Ем{#PreviousFormat}, Нікс? Як гадаєш, чи став би Харон обажатися на мене, якби... ми трохи побилися? Я маю на увазі до смерті."
+      DisplayName = "{#DialogueItalicFormat}Ем{#PreviousFormat}, Нікс? Як гадаєш, чи став би Харон ображатися на мене, якби... ми трохи побилися? Я маю на увазі до смерті."
     }
     {
       /*
