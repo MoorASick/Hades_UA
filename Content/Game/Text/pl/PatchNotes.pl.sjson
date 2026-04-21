@@ -7,45 +7,45 @@
   Texts = [
     {
       Id = "MainMenuScreen_BootAnnouncement"
-      DisplayName = "witaj ponownie!"
-      Description = "Po trzech latach pracy z przyjemnością przedstawiamy {#AlertHeaderFormat}wersję 1.0 {#PreviousFormat}gry {#AlertHeaderFormat}Hades{#PreviousFormat}! Twoje wsparcie jako gracza {#AlertHighlightFormat}Wczesnego Dostępu {#PreviousFormat}było kluczowe dla tej gry, dlatego {#AlertBoldFormat}dziękujemy Ci{#PreviousFormat}! Mamy nadzieję, że spodoba Ci się {#AlertBoldFormat}właściwe zakończenie{#PreviousFormat}, jak również ostatni zestaw nowych funkcji i ulepszeń, które zaplanowaliśmy. Koniec {#AlertHighlightFormat}Wczesnego Dostępu {#PreviousFormat}oznacza też kilka innych rzeczy: \n  \n · Po ewentualnych aktualizacjach, które będą miały na celu zapewnienie, że premierowa wersja gry jest możliwie wolna od problemów, zrobimy sobie przerwę, aby naładować baterie i zaplanować co dalej. \n  \n · Patrząc w przyszłość na rok 2021 i kolejne z ekscytacją powiemy więcej na temat tego co dalej dla nas jako ekipy, jak tylko będziemy gotowi. \n  \n · Nie zobaczysz już więcej tej wiadomości! A zatem dziękujemy Ci ponownie i niech {#AlertHeaderFormat}Hades {#PreviousFormat}pozostawi po sobie wiele miłych wspomnień. Powodzenia w ucieczce z piekła, \n  \n \Column 430 {#AlertSigFormat}~Supergiant Games"
+      DisplayName = "вітання!"
+      Description = "Після трьох років роботи ми з радістю представляємо {#AlertHeaderFormat}версію 1.0 {#PreviousFormat}гри {#AlertHeaderFormat}Hades{#PreviousFormat}! Ваша підтримка як гравця {#AlertHighlightFormat}раннього доступу {#PreviousFormat}була надзвичайно важливою для цієї гри, тому {#AlertBoldFormat}дякуємо Вам{#PreviousFormat}!  Сподіваємося, вам сподобається {#AlertBoldFormat}належне завершення{#PreviousFormat}, а також останній набір нових функцій та покращень, які ми запланували. Закінчення {#AlertHighlightFormat}раннього доступу  {#PreviousFormat}означає також декілька інших речей: \n  \n · Після наступних можливих оновлень, які будуть спрямовані на те, щоб пересвідчитися, що прем'єрна версія гри буде позбавлена проблем, ми зробимо перерву, щоб зарядити наші батарейки та спланувати подальші кроки. \n  \n · Дивлячись у майбутнє, на 2021 рік та усі наступні, ми з радістю розповімо більше про те, що далі чекає на нас як команду, як тільки будемо готові до цього. \n  \n · Ви більше не побачите це повідомлення! Тож ще раз дякуємо вам і нехай {#AlertHeaderFormat}Hades {#PreviousFormat}залишить після себе багато приємних спогадів. Удачі у втечі з пекла, \n  \n \Column 430 {#AlertSigFormat}~Supergiant Games"
     }
     {
       Id = "MainMenuScreen_BootAnnouncement_UpdateWarning"
-      DisplayName = "Prosimy o Aktualizację"
-      Description = "Witaj w grze {#AlertHeaderFormat}Hades{#PreviousFormat}! \n \n {#AlertBoldFormat}Uwaga: {#PreviousFormat}Widzisz tę wiadomość, ponieważ wykryliśmy, że Twoja gra nie jest na bieżąco z najnowszą wersją. Mogą wystąpić kluczowe zmiany i ulepszenia, do których nie masz dostępu w wersji, która aktualnie jest zainstalowana. @GUI\\Icons\\GhostEmote\\OhBoy \n  \n {#AlertHighlightFormat}Prosimy, wyjdź z gry i upewnij się, że posiadasz najnowszą aktualizację. {#PreviousFormat}Naprawdę doceniamy Wasze wsparcie i dziękujemy, że grasz, \n \n \Column 430 {#AlertSigFormat}~Supergiant Games"
+      DisplayName = "Прохання, оновити гру"
+      Description = "Ласкаво просимо до гри {#AlertHeaderFormat}Hades{#PreviousFormat}! \n \n {#AlertBoldFormat}Увага: {#PreviousFormat}Ви бачите це повідомлення, оскільки ми виявили, що ваша версія гри не відповідає дійсній останній версії. Можливі важливі зміни та вдосконалення, до яких ви не матимете доступу в поточній версії, що встановлена на вашому комп'ютері. @GUI\\Icons\\GhostEmote\\OhBoy \n  \n {#AlertHighlightFormat}Прохання, вийдіть з гри та переконайтеся, що у вас встановлено останню її версію.  {#PreviousFormat}Ми дуже цінуємо вашу підтримку і дякуємо, що граєте, \n \n \Column 430 {#AlertSigFormat}~Supergiant Games"
     }
     {
       Id = "LastUpdate"
-      DisplayName = "aktualizacja: "
+      DisplayName = "оновлення: "
     }
     {
       Id = "NextUpdateCountdownCustom"
-      DisplayName = "Co Dalej: \n {#NextUpdateCountFormat}Premiera wersji 1.0!! (Więcej)"
+      DisplayName = "Що далі: \n {#NextUpdateCountFormat}Прем'єра версії 1.0!! (Більше)"
     }
     {
       Id = "NextUpdateCountdown"
-      DisplayName = "Następna duża aktualizacja \n Publikacja za: {#NextUpdateCountFormat}"
+      DisplayName = "Наступне велике оновлення \n Публікація за: {#NextUpdateCountFormat}"
     }
     {
       Id = "NextUpdateCountdownPassed"
-      DisplayName = "Następna duża aktualizacja \n WKRÓTCE!"
+      DisplayName = "Наступне велике оновлення \n СКОРО!"
     }
     {
       Id = "NextUpdateCountdownSingular"
-      DisplayName = " {#NextUpdateCountFormat}Dzień{#NextUpdateBaseFormat}!"
+      DisplayName = " {#NextUpdateCountFormat}День{#NextUpdateBaseFormat}!"
     }
     {
       Id = "NextUpdateCountdownPlural"
-      DisplayName = " {#NextUpdateCountFormat}Dni{#NextUpdateBaseFormat}!"
+      DisplayName = " {#NextUpdateCountFormat}Дні{#NextUpdateBaseFormat}!"
     }
     {
       Id = "ControllerWarning"
-      DisplayName = "Uwaga: Polecamy grać z użyciem kontrolera."
+      DisplayName = "Примітка: Для гри рекомендуємо використовувати контролер."
     }
     {
       Id = "AudioDriverWarning"
-      DisplayName = "Dźwięk wyłączony! Należy zaktualizować sterownik dźwiękowy"
+      DisplayName = "Звук вимкнено! Необхідно оновити драйвер звукової карти."
     }
     {
       Id = "InGameUI_ActiveShrinePoints"
@@ -65,11 +65,11 @@
     }
     {
       Id = "MainMenuScreen_PatchSubHeading"
-      DisplayName = "@GUI\\Icons\\GhostPack {#CommonFormat} - Zmiana zainspirowana opiniami społeczności!"
+      DisplayName = "@GUI\\Icons\\GhostPack {#CommonFormat} - Зміни, натхненні думками спільноти!"
     }
     {
       Id = "MainMenuScreen_PatchNotes"
-      DisplayName = "Ostatnie Zmiany"
+      DisplayName = "Останні зміни"
     }
   ]
 }
